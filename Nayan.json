@@ -10,11 +10,11 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "PREFIX": "!",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100078836755345"
+    "100085189034591"
   ],
   "ADMINBOT": [
     "100000959749712",
